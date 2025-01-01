@@ -1,8 +1,8 @@
 ---
-title: hxp 38C3 ctf, Respectable_nft
+title: hxp 38C3 
 published: 2024-12-30
-description: Storage collision
-tags: [ctf, pwn, evm]
+description: Respectable_nft
+tags: [pwn, evm, ctf]
 category: wu
 draft: false
 ---

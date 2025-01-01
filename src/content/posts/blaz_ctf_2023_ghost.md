@@ -4,7 +4,7 @@ published: 2023-12-05
 description: Ghost
 tags: [ctf, reverse, evm]
 category: wu
-draft: false
+draft: true
 ---
 
 ## Introduction

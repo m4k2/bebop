@@ -1,7 +1,7 @@
 ---
-title: HeroCTF V5 2023 ctf, wu all blockchain challenges
+title: HeroCTF V5 2023 
 published: 2023-05-15
-description: foundry scripts + tests and wu
+description: wu all blockchain challenges
 tags: [ctf, reverse, pwn, evm]
 category: wu
 draft: false
