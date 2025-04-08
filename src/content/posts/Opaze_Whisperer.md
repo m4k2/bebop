@@ -1,7 +1,7 @@
 ---
 title: JOP Down the Rabbit Hole, an EVM Exploitation Saga
 published: 2025-04-08
-description: 'Deep dive into reverse engineering, JOP exploitation, and custom VM analysis through a CTF challenge'
+description: 'Technical analysis of the Opaze Whisperer challenge: EVM bytecode manipulation, JOP gadget exploitation, and custom VM reverse engineering within EVM constraints'
 image: ''
 tags: ['evm','JOP','pwn', 'reverse', 'ctf']
 category: 'wu'
