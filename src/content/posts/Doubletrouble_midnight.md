@@ -13,13 +13,7 @@ lang: 'en'
 
 The final web3 challenge of the Midnight CTF revolves around a metamorphic contract. Fortunately, I had previously created a similar challenge for the Breizh CTF two years ago.
 
-Here's a quick refresher on what a metamorphic contract is:
-
-Smart contracts on Ethereum are widely considered immutable once deployed. However, this assumption doesn’t always hold true. In a this article by MixBytes, titled [*Metamorphic Smart Contracts: Is EVM Code Truly Immutable?*](https://mixbytes.io/blog/metamorphic-smart-contracts-is-evm-code-truly-immutable#rec562912282), the author dives into a class of contracts whose logic can *change over time*, despite having a static address.
-
-
-
-## MixBytes TL;DR
+## Here's a quick refresher on what a metamorphic contract is:
 
 Despite the common belief that smart contracts on Ethereum are immutable once deployed, **contracts can effectively change their logic** using advanced EVM patterns involving `CREATE`, `CREATE2`, and `SELFDESTRUCT`.
 
