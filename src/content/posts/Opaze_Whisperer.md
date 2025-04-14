@@ -1,5 +1,5 @@
 ---
-title: JOP Down the Rabbit Hole, an EVM Exploitation Saga
+title: JOP Down the Rabbit Hole
 published: 2025-04-08
 description: 'Technical analysis of the Opaze Whisperer challenge: bytecode manipulation, JOP gadget exploitation, and custom VM reverse engineering'
 image: ''
