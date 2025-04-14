@@ -72,7 +72,7 @@ By using `SELFDESTRUCT`, a contract can erase itself and reset its nonce (if no 
 
 ---
 
-### 🧬 Combined Flow — Step-by-Step:
+### Combined Flow — Step-by-Step:
 
 | Step | Action | Purpose |
 |------|--------|---------|
